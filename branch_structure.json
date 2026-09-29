@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/path-alias-imports",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/path-alias-imports": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/path-alias-imports",
+    "origin"
+  ]
+}
